@@ -1,0 +1,52 @@
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe.config
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\AutoTeste.pdb
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csprojResolveAssemblyReference.cache
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmLogin.resources
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.Properties.Resources.resources
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csproj.GenerateResource.Cache
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csproj.CoreCompileInputs.cache
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.exe
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.pdb
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmPrincipal.resources
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kikoi\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe.config
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\AutoTeste.pdb
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmLogin.resources
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmPrincipal.resources
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.Properties.Resources.resources
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csproj.GenerateResource.Cache
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.exe
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.pdb
+C:\Users\francisco_faria\Desktop\Desktop\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csprojResolveAssemblyReference.cache
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe.config
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.exe
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.pdb
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\AutoTeste.pdb
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csprojResolveAssemblyReference.cache
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmLogin.resources
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmPrincipal.resources
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.Properties.Resources.resources
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csproj.GenerateResource.Cache
+C:\Users\francisco_faria\Desktop\Estudo de Automatização de Testes\Projeto Automatiza Selenium\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmExecutar.resources
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csprojResolveAssemblyReference.cache
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmExecutar.resources
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmLogin.resources
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmPrincipal.resources
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\obj\Debug\AutoTeste.Properties.Resources.resources
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csproj.GenerateResource.Cache
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csproj.CoreCompileInputs.cache
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe.config
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\bin\Debug\AutoTeste.pdb
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\obj\Debug\AutoTeste.exe
+C:\Users\kikoi\Desktop\AutoTeste\AutoTeste\obj\Debug\AutoTeste.pdb
