@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTeste", "AutoTeste\AutoTeste.csproj", "{5B161A46-CF71-43D9-867B-4F0142313C2C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoTeste", "AutoTeste\AutoTeste.csproj", "{548A2D41-B58E-4B0C-A2BB-C46DCB3BA991}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5B161A46-CF71-43D9-867B-4F0142313C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5B161A46-CF71-43D9-867B-4F0142313C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5B161A46-CF71-43D9-867B-4F0142313C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5B161A46-CF71-43D9-867B-4F0142313C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548A2D41-B58E-4B0C-A2BB-C46DCB3BA991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548A2D41-B58E-4B0C-A2BB-C46DCB3BA991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548A2D41-B58E-4B0C-A2BB-C46DCB3BA991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548A2D41-B58E-4B0C-A2BB-C46DCB3BA991}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C1AEF02A-A320-43A4-A0A8-260001718BB2}
+		SolutionGuid = {1E955CD5-72A5-4B21-8EB0-C2B1347BC20F}
 	EndGlobalSection
 EndGlobal

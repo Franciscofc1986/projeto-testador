@@ -1,3 +1,0 @@
-[1004/181529.747:ERROR:process_reader_win.cc(123)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido.  (0xc0000022)
-[1004/181529.748:ERROR:exception_snapshot_win.cc(87)] thread ID 5544 not found in process
-[1004/181529.748:WARNING:crash_report_exception_handler.cc(62)] ProcessSnapshotWin::Initialize failed
