@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace AutoTeste
 {
-    public partial class Form1 : Form
+    public partial class frmConfiguracao : Form
     {
-        public Form1()
+        public frmConfiguracao()
         {
             InitializeComponent();
+        }
+
+        private void btnSalvarConfig_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
     }
 }

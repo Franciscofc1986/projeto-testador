@@ -1,0 +1,14 @@
+C:\testador\projeto-testador\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe.config
+C:\testador\projeto-testador\AutoTeste\AutoTeste\bin\Debug\AutoTeste.exe
+C:\testador\projeto-testador\AutoTeste\AutoTeste\bin\Debug\AutoTeste.pdb
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csprojResolveAssemblyReference.cache
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmPrincipal.resources
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.Properties.Resources.resources
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csproj.GenerateResource.Cache
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.csproj.CoreCompileInputs.cache
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.exe
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.pdb
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmSplashScreen.resources
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmLogin.resources
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.frmConfiguracao.resources
+C:\testador\projeto-testador\AutoTeste\AutoTeste\obj\Debug\AutoTeste.Comum.Loading.resources
